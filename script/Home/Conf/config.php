@@ -72,7 +72,7 @@ $config = array(
         'REPLY_NAME' => '', //回复名称（留空则为发件人名称）
     ),
 
-    'WARNING_TYPE' => 'File',
+    'WARNING_TYPE' => 'Mail',
 
 );
 return array_merge($config, $ident, $protocol, $behave);

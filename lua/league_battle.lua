@@ -201,13 +201,13 @@ function league_battle_monster_hp(monster_id, league_level, league_food_level, l
 	league_level_add = 0
 
 	if monster_id == 1 then
-       hp = 3000000 + ( league_level - 1) * league_level_add
+       hp = 5000000 + ( league_level - 1) * league_level_add
     elseif monster_id == 2 then
-       hp = 4000000 + ( league_level - 1) * league_level_add
+       hp = 5000000 + ( league_level - 1) * league_level_add
     elseif monster_id == 3 then
        hp = 5000000 + ( league_level - 1) * league_level_add
     else
-       hp = 4000000
+       hp = 5000000
     end
     
     -- 上限保护，不超过20亿

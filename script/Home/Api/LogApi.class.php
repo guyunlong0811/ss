@@ -93,14 +93,6 @@ class LogApi extends BaseApi
         $fromPwd = $info['master']['DB_PWD'];
         $fromName = $info['dbname'];
 
-        $toHost = $info['log']['DB_HOST'];
-        $toUser = $info['log']['DB_USER'];
-        $toPwd = $info['log']['DB_PWD'];
-        $toName = $info['log_dbname'];
-
-        //修改表名
-        $execAlter = "mysql -h{$toHost} -u{$toUser} -p{$toPwd} {$toName} -e\"rename table ";
-
         //遍历表
         foreach ($this->mLogTableList as $value) {
             switch ($value) {
@@ -120,16 +112,6 @@ class LogApi extends BaseApi
             //将需要迁徙的数据库dump成sql
             $exec = "mysqldump -h{$fromHost} -u{$fromUser} -p{$fromPwd} {$fromName} {$value} --where=\"{$where}\" > {$dbPath}{$value}.sql";
             exec($exec);
-
-            //将sql执行到目标服务器
-            $exec = "mysql -h{$toHost} -u{$toUser} -p{$toPwd} {$toName} < {$dbPath}{$value}.sql";
-            exec($exec);
-
-            //修改表名
-            $execAlter .= "{$value} to {$value}_{$sid}_{$date},";
-
-            //删除sql
-//            unlink($dbPath . $value . 'sql');
         }
 
         //每月一号备份 g_daily_register
@@ -137,45 +119,14 @@ class LogApi extends BaseApi
             //将需要迁徙的数据库dump成sql
             $exec = "mysqldump -h{$fromHost} -u{$fromUser} -p{$fromPwd} {$fromName} g_daily_register > {$dbPath}g_daily_register.sql";
             exec($exec);
-
-            //将sql执行到目标服务器
-            $exec = "mysql -h{$toHost} -u{$toUser} -p{$toPwd} {$toName} <  {$dbPath}g_daily_register.sql";
-            exec($exec);
-
-            //修改表名
-            $execAlter .= "g_daily_register to g_daily_register_{$sid}_{$date},";
-
-            //删除sql
-//            unlink($dbPath . 'g_daily_register.sql');
         }
-
-        //修改表名
-        $execAlter = substr($execAlter, 0, -1) . '"';
-        exec($execAlter);
-
-        //修改表名
-        $execAlter = "mysql -h{$toHost} -u{$toUser} -p{$toPwd} {$toName} -e\"rename table ";
 
         //遍历表
         foreach ($this->mTruncateTableList as $value) {
             //将需要迁徙的数据库dump成sql
             $exec = "mysqldump -h{$fromHost} -u{$fromUser} -p{$fromPwd} {$fromName} {$value} > {$dbPath}{$value}.sql";
             exec($exec);
-
-            //将sql执行到目标服务器
-            $exec = "mysql -h{$toHost} -u{$toUser} -p{$toPwd} {$toName} < {$dbPath}{$value}.sql";
-            exec($exec);
-
-            //修改表名
-            $execAlter .= "{$value} to {$value}_{$sid}_{$date},";
-
-            //删除sql
-//            unlink($dbPath . $value . '.sql');
         }
-
-        //修改表名
-        $execAlter = substr($execAlter, 0, -1) . '"';
-        exec($execAlter);
 
         return true;
 
