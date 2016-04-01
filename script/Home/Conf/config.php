@@ -29,7 +29,7 @@ $config = array(
     'LOG_RECORD' => true,//开启了日志记录
 //    'LOG_LEVEL'  =>'DEBUG,EMERG,ALERT,CRIT,ERR',
 
-    'GAME_ID' => 1,//游戏编号
+    'GAME_ID' => 2,//游戏编号
     'G_SID' => 0,//服务器编号
 
     'LUA_URL' => './lua/',//LUA文件路径

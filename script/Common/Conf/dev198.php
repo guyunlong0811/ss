@@ -9,6 +9,7 @@ define('DB_STATIC_NAME', 'ssgStatic');
 define('DB_STATIC_CHARSET', 'utf8');
 
 //URL
-define('UC_URL', 'http://localhost/FGUserCenter/user.php');
-define('OPE_URL', 'http://localhost/zettaiOpe/admin.php');
-define('SCRIPT_URL', 'http://localhost/zettaiScripts/index.php');
+define('WEB_URL', 'http://sbssgapi.forevergame.com/api.php');
+define('UC_URL', 'http://sbuc.forevergame.com/user.php');
+define('OPE_URL', 'http://sbssgope.forevergame.com/admin.php');
+define('SCRIPT_URL', 'http://sbssgss.forevergame.com/index.php');
