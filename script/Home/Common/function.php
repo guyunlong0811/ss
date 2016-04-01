@@ -33,6 +33,7 @@ function get_server_list()
                 $serverList[$value['sid']]['channel'][$value['channel_id']] = $channel;
             }
             $serverList[$value['sid']]['dbname'] = $value['dbname'];
+            $serverList[$value['sid']]['log_dbname'] = $value['log_dbname'];
             $serverList[$value['sid']]['master']['DB_DEPLOY_TYPE'] = 0;
             $serverList[$value['sid']]['master']['DB_RW_SEPARATE'] = false;
             $serverList[$value['sid']]['master']['DB_HOST'] = $value['db_m_host'];
@@ -45,6 +46,10 @@ function get_server_list()
             $serverList[$value['sid']]['all']['DB_USER'] = $value['db_m_user'] . ',' . $value['db_s_user'];
             $serverList[$value['sid']]['all']['DB_PWD'] = $value['db_m_pwd'] . ',' . $value['db_s_pwd'];
             $serverList[$value['sid']]['all']['DB_PORT'] = $value['db_m_port'] . ',' . $value['db_s_port'];
+            $serverList[$value['sid']]['log']['DB_HOST'] = $value['log_db_host'];
+            $serverList[$value['sid']]['log']['DB_USER'] = $value['log_db_user'];
+            $serverList[$value['sid']]['log']['DB_PWD'] = $value['log_db_pwd'];
+            $serverList[$value['sid']]['log']['DB_PORT'] = $value['log_db_port'];
             $serverList[$value['sid']]['redis']['host'] = $value['redis_host'];
             $serverList[$value['sid']]['redis']['port'] = $value['redis_port'];
             $serverList[$value['sid']]['redis']['game'] = $value['redis_game'];

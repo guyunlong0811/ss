@@ -8,7 +8,9 @@ class ExecHeartApi extends BaseApi
 
     public function _initialize()
     {
-        $this->mExecList = array();
+        $this->mExecList = array(
+			'Linekong.queue',
+        );
     }
 
     public function index()
