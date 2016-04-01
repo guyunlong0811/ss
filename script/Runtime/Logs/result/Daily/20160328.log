@@ -1,0 +1,22 @@
+{"status":"success","sid":"101","run":"2.438704","timestamp":1459145191}
+{"status":"success","sid":"102","run":"1.355712","timestamp":1459145190}
+{"status":"success","sid":"103","run":"1.949327","timestamp":1459145190}
+{"status":"success","sid":"104","run":"1.030677","timestamp":1459145211}
+{"status":"success","sid":"104","run":"1.150951","timestamp":1459145251}
+{"status":"success","sid":"104","run":"1.036384","timestamp":1459145303}
+<pre>string(132) &quot;mysql -h192.168.10.199 -uroot -proot zettai104 &lt; ./script/Common/Common/db/S104/20160328/1459145349.sql --default-character-set=utf8&quot;
+</pre>{"status":"success","sid":"104","run":"1.026067","timestamp":1459145349}
+mysql -h192.168.10.199 -uroot -proot zettai104 < ./script/Common/Common/db/S104/20160328/1459145362.sql --default-character-set=utf8{"status":"success","sid":"104","run":"0.926858","timestamp":1459145362}
+mysql -h192.168.10.199 -uroot -proot zettai104 < ./script/Common/Common/db/S104/20160328/1459145392.sql --default-character-set=utf8{"status":"success","sid":"104","run":"0.997284","timestamp":1459145392}
+{"status":"success","sid":"101","run":"0.016123","timestamp":1459145471}
+{"status":"success","sid":"102","run":"0.012836","timestamp":1459145471}
+{"status":"success","sid":"103","run":"0.015624","timestamp":1459145471}
+{"status":"success","sid":"104","run":"0.012559","timestamp":1459145481}
+{"status":"success","sid":"104","run":"1.144708","timestamp":1459145494}
+{"status":"success","sid":"104","run":"0.999574","timestamp":1459145524}
+{"status":"success","sid":"104","run":"1.359141","timestamp":1459145554}
+{"status":"success","sid":"104","run":"0.942155","timestamp":1459145654}
+mysql -h192.168.10.199 -uroot -proot zettai104 < ./script/Common/Common/db/S104/20160328/1459145683.sql --default-character-set=utf8{"status":"success","sid":"104","run":"0.938899","timestamp":1459145683}
+{"status":"success","sid":"101","run":"0.020252","timestamp":1459146689}
+{"status":"success","sid":"102","run":"0.018859","timestamp":1459146689}
+{"status":"success","sid":"103","run":"0.020020","timestamp":1459146689}

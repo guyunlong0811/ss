@@ -1,0 +1,1655 @@
+[ 2016-03-25T19:39:17+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=101
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000810s ]
+SQL: SHOW COLUMNS FROM `g_params` [ RunTime:0.0023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000886s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000957s ]
+
+[ 2016-03-25T19:39:17+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=102
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+SQL: SHOW COLUMNS FROM `g_params` [ RunTime:0.0033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000558s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000644s ]
+
+[ 2016-03-25T19:39:17+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=103
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001158s ]
+SQL: SHOW COLUMNS FROM `g_params` [ RunTime:0.0033s ]
+SQL: SHOW COLUMNS FROM `s_event` [ RunTime:0.0028s ]
+SQL: SHOW COLUMNS FROM `s_event` [ RunTime:0.0025s ]
+SQL: SELECT `index`,`name`,`group`,`type`,`start_date`,`start_time`,`end_date`,`end_time`,`open_process`,`count_type`,`count`,`exchange`,`prompt_type`,`prompt_string`,`des`,`priority`,`icon` FROM `s_event` WHERE ( 1=1 ) ORDER BY `group` asc,`start_date` asc,`start_time` asc  [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000586s ]
+
+[ 2016-03-25T19:39:17+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000555s ]
+
+[ 2016-03-25T19:39:17+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000739s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000501s ]
+
+[ 2016-03-25T19:40:23+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+SQL: SHOW COLUMNS FROM `g_params` [ RunTime:0.0014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000607s ]
+
+[ 2016-03-25T19:40:23+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000916s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000453s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2016-03-25T19:40:23+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000507s ]
+
+[ 2016-03-25T19:42:47+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000431s ]
+SQL: SHOW COLUMNS FROM `g_event` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `g_shop` [ RunTime:0.0017s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458906167  [ RunTime:0.0029s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458906167 [ RunTime:0.0048s ]
+SQL: SHOW COLUMNS FROM `t_daily_count` [ RunTime:0.0016s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0047s ]
+SQL: SHOW COLUMNS FROM `s_params` [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `s_params` [ RunTime:0.0014s ]
+SQL: SELECT `index`,`value`,`des` FROM `s_params` WHERE ( 1=1 ) ORDER BY `index` asc  [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `g_league_team` [ RunTime:0.0014s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `g_league` [ RunTime:0.0014s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0029s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0029s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0029s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0027s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000504s ]
+
+[ 2016-03-25T19:42:47+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000510s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000579s ]
+
+[ 2016-03-25T19:42:47+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000438s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000517s ]
+
+[ 2016-03-25T19:43:28+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0021s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458906207  [ RunTime:0.0014s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458906207 [ RunTime:0.0013s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0061s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0068s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0016s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000707s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000814s ]
+
+[ 2016-03-25T19:43:28+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000518s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000632s ]
+
+[ 2016-03-25T19:43:28+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000503s ]
+
+[ 2016-03-25T19:43:30+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000695s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0016s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458906210  [ RunTime:0.0012s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458906210 [ RunTime:0.0011s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0016s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000826s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000939s ]
+
+[ 2016-03-25T19:43:30+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000511s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000566s ]
+
+[ 2016-03-25T19:43:30+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000440s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000535s ]
+
+[ 2016-03-25T19:44:14+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0019s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458906254  [ RunTime:0.0021s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458906254 [ RunTime:0.0015s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0065s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0015s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000830s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000972s ]
+
+[ 2016-03-25T19:44:14+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000413s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-03-25T19:44:14+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000697s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000812s ]
+
+[ 2016-03-25T19:44:57+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0021s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458906297  [ RunTime:0.0014s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458906297 [ RunTime:0.0023s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0016s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000738s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000851s ]
+
+[ 2016-03-25T19:44:57+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000525s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000590s ]
+
+[ 2016-03-25T19:44:57+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000127s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000534s ]
+
+[ 2016-03-25T19:45:15+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+
+[ 2016-03-25T19:45:15+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000498s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000604s ]
+
+[ 2016-03-25T19:45:54+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0014s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458906354  [ RunTime:0.0012s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458906354 [ RunTime:0.0014s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0016s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0029s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0017s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000554s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000623s ]
+
+[ 2016-03-25T19:45:54+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000377s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000436s ]
+
+[ 2016-03-25T19:45:54+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000413s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000494s ]
+
+[ 2016-03-25T19:46:30+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0038s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458906390  [ RunTime:0.0035s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458906390 [ RunTime:0.0015s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0022s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000586s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000655s ]
+
+[ 2016-03-25T19:46:30+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000610s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000674s ]
+
+[ 2016-03-25T19:46:30+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000453s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000575s ]
+
+[ 2016-03-25T19:46:54+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0017s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458906414  [ RunTime:0.0013s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458906414 [ RunTime:0.0014s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0015s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000529s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000595s ]
+
+[ 2016-03-25T19:46:54+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000524s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000584s ]
+
+[ 2016-03-25T19:46:54+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000533s ]
+
+[ 2016-03-25T19:47:11+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0018s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458906430  [ RunTime:0.0014s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458906430 [ RunTime:0.0013s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0015s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000428s ]
+
+[ 2016-03-25T19:47:11+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000522s ]
+
+[ 2016-03-25T19:47:11+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000471s ]
+
+[ 2016-03-25T19:47:58+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000371s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0016s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458906478  [ RunTime:0.0012s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458906478 [ RunTime:0.0013s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0014s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000531s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000638s ]
+
+[ 2016-03-25T19:47:58+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000497s ]
+
+[ 2016-03-25T19:47:58+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000104s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000586s ]
+
+[ 2016-03-25T19:48:21+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000259s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0016s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458906501  [ RunTime:0.0015s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458906501 [ RunTime:0.0011s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0022s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000709s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000820s ]
+
+[ 2016-03-25T19:48:21+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000399s ]
+
+[ 2016-03-25T19:48:21+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000504s ]
+
+[ 2016-03-25T19:48:47+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0017s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458906527  [ RunTime:0.0015s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458906527 [ RunTime:0.0013s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0020s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000703s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000812s ]
+
+[ 2016-03-25T19:48:47+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000483s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000538s ]
+
+[ 2016-03-25T19:48:47+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000563s ]
+
+[ 2016-03-25T19:48:59+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000356s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0018s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458906539  [ RunTime:0.0014s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458906539 [ RunTime:0.0015s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0018s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000711s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000820s ]
+
+[ 2016-03-25T19:48:59+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000359s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2016-03-25T19:48:59+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000484s ]
+
+[ 2016-03-25T19:50:16+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0016s ]
+NOTIC: [8] Undefined variable: tis /Library/WebServer/Documents/zettaiScripts/script/Home/Api/LeagueFightApi.class.php 第 15 行.
+NOTIC: [2] Creating default object from empty value /Library/WebServer/Documents/zettaiScripts/script/Home/Api/LeagueFightApi.class.php 第 15 行.
+NOTIC: [8] Undefined property: stdClass::$sum /Library/WebServer/Documents/zettaiScripts/script/Home/Api/LeagueFightApi.class.php 第 15 行.
+NOTIC: [8] Undefined variable: tis /Library/WebServer/Documents/zettaiScripts/script/Home/Api/LeagueFightApi.class.php 第 15 行.
+NOTIC: [2] Creating default object from empty value /Library/WebServer/Documents/zettaiScripts/script/Home/Api/LeagueFightApi.class.php 第 15 行.
+NOTIC: [8] Undefined property: stdClass::$sum /Library/WebServer/Documents/zettaiScripts/script/Home/Api/LeagueFightApi.class.php 第 15 行.
+NOTIC: [8] Undefined variable: tis /Library/WebServer/Documents/zettaiScripts/script/Home/Api/LeagueFightApi.class.php 第 15 行.
+NOTIC: [2] Creating default object from empty value /Library/WebServer/Documents/zettaiScripts/script/Home/Api/LeagueFightApi.class.php 第 15 行.
+NOTIC: [8] Undefined property: stdClass::$sum /Library/WebServer/Documents/zettaiScripts/script/Home/Api/LeagueFightApi.class.php 第 15 行.
+NOTIC: [8] Undefined variable: tis /Library/WebServer/Documents/zettaiScripts/script/Home/Api/LeagueFightApi.class.php 第 15 行.
+NOTIC: [2] Creating default object from empty value /Library/WebServer/Documents/zettaiScripts/script/Home/Api/LeagueFightApi.class.php 第 15 行.
+NOTIC: [8] Undefined property: stdClass::$sum /Library/WebServer/Documents/zettaiScripts/script/Home/Api/LeagueFightApi.class.php 第 15 行.
+NOTIC: [8] Undefined variable: tis /Library/WebServer/Documents/zettaiScripts/script/Home/Api/LeagueFightApi.class.php 第 15 行.
+NOTIC: [2] Creating default object from empty value /Library/WebServer/Documents/zettaiScripts/script/Home/Api/LeagueFightApi.class.php 第 15 行.
+NOTIC: [8] Undefined property: stdClass::$sum /Library/WebServer/Documents/zettaiScripts/script/Home/Api/LeagueFightApi.class.php 第 15 行.
+NOTIC: [8] Undefined variable: tis /Library/WebServer/Documents/zettaiScripts/script/Home/Api/LeagueFightApi.class.php 第 15 行.
+NOTIC: [2] Creating default object from empty value /Library/WebServer/Documents/zettaiScripts/script/Home/Api/LeagueFightApi.class.php 第 15 行.
+NOTIC: [8] Undefined property: stdClass::$sum /Library/WebServer/Documents/zettaiScripts/script/Home/Api/LeagueFightApi.class.php 第 15 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458906616  [ RunTime:0.0017s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458906616 [ RunTime:0.0013s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0017s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0013s ]
+NOTIC: [8] Undefined variable: tis /Library/WebServer/Documents/zettaiScripts/script/Home/Api/LeagueFightApi.class.php 第 15 行.
+NOTIC: [2] Creating default object from empty value /Library/WebServer/Documents/zettaiScripts/script/Home/Api/LeagueFightApi.class.php 第 15 行.
+NOTIC: [8] Undefined property: stdClass::$sum /Library/WebServer/Documents/zettaiScripts/script/Home/Api/LeagueFightApi.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000731s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000846s ]
+
+[ 2016-03-25T19:50:16+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000410s ]
+
+[ 2016-03-25T19:50:16+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000523s ]
+
+[ 2016-03-25T19:50:42+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0016s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458906642  [ RunTime:0.0015s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458906642 [ RunTime:0.0017s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0021s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000508s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000587s ]
+
+[ 2016-03-25T19:50:42+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000368s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000414s ]
+
+[ 2016-03-25T19:50:42+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000505s ]
+
+[ 2016-03-25T19:51:59+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0013s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458906719  [ RunTime:0.0022s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458906719 [ RunTime:0.0045s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0073s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0043s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0038s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000543s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000610s ]
+
+[ 2016-03-25T19:51:59+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000409s ]
+
+[ 2016-03-25T19:51:59+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000492s ]
+
+[ 2016-03-25T19:52:27+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0013s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458906747  [ RunTime:0.0017s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458906747 [ RunTime:0.0014s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0015s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0016s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000578s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000646s ]
+
+[ 2016-03-25T19:52:27+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000624s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000684s ]
+
+[ 2016-03-25T19:52:27+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000539s ]
+
+[ 2016-03-25T19:52:30+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0016s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458906750  [ RunTime:0.0018s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458906750 [ RunTime:0.0018s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0018s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0019s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000565s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000632s ]
+
+[ 2016-03-25T19:52:30+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000491s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000557s ]
+
+[ 2016-03-25T19:52:30+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000429s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000566s ]
+
+[ 2016-03-25T19:52:42+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000342s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458906762  [ RunTime:0.0016s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458906762 [ RunTime:0.0014s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0016s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000378s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000428s ]
+
+[ 2016-03-25T19:52:42+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000378s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000426s ]
+
+[ 2016-03-25T19:52:42+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000550s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000533s ]
+
+[ 2016-03-25T19:54:06+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0023s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0019s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458906846  [ RunTime:0.0019s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458906846 [ RunTime:0.0023s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0053s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000608s ]
+
+[ 2016-03-25T19:54:06+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000390s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000447s ]
+
+[ 2016-03-25T19:54:07+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000496s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000646s ]
+
+[ 2016-03-25T19:54:20+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0021s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458906860  [ RunTime:0.0013s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458906860 [ RunTime:0.0012s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0015s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0028s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000609s ]
+
+[ 2016-03-25T19:54:20+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000363s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000457s ]
+
+[ 2016-03-25T19:54:20+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000449s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000533s ]
+
+[ 2016-03-25T19:56:36+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0014s ]
+NOTIC: [8] Undefined index: validate /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: UPDATE `g_event` SET `status`='1',`ps`='{\"starttime\":1458903600,\"endtime\":1458907200}' WHERE `id` = 2205 [ RunTime:0.0018s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458906996  [ RunTime:0.0013s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458906996 [ RunTime:0.0013s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0017s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000660s ]
+
+[ 2016-03-25T19:56:36+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000596s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000671s ]
+
+[ 2016-03-25T19:56:36+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000545s ]
+
+[ 2016-03-25T19:58:42+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0022s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0056s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458907122  [ RunTime:0.0019s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458907122 [ RunTime:0.0024s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0027s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0040s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0019s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0062s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000607s ]
+
+[ 2016-03-25T19:58:42+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000453s ]
+
+[ 2016-03-25T19:58:42+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000502s ]
+
+[ 2016-03-25T19:59:32+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000428s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0019s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0033s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458907172  [ RunTime:0.0025s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458907172 [ RunTime:0.0021s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0022s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0042s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0040s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0014s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Common/functions.php:850) /Library/WebServer/Documents/zettaiScripts/script/Home/Common/function.php 第 214 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000431s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000489s ]
+
+[ 2016-03-25T19:59:32+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000674s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000887s ]
+
+[ 2016-03-25T19:59:32+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000522s ]
+
+[ 2016-03-25T19:59:45+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+SQL: SHOW COLUMNS FROM `s_event` [ RunTime:0.0037s ]
+SQL: SHOW COLUMNS FROM `s_event` [ RunTime:0.0029s ]
+SQL: SELECT `index`,`name`,`group`,`type`,`start_date`,`start_time`,`end_date`,`end_time`,`open_process`,`count_type`,`count`,`exchange`,`prompt_type`,`prompt_string`,`des`,`priority`,`icon` FROM `s_event` WHERE ( 1=1 ) ORDER BY `group` asc,`start_date` asc,`start_time` asc  [ RunTime:0.0020s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0017s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458907185  [ RunTime:0.0018s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458907185 [ RunTime:0.0013s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `s_params` [ RunTime:0.0026s ]
+SQL: SHOW COLUMNS FROM `s_params` [ RunTime:0.0022s ]
+SQL: SELECT `index`,`value`,`des` FROM `s_params` WHERE ( 1=1 ) ORDER BY `index` asc  [ RunTime:0.0055s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000572s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000657s ]
+
+[ 2016-03-25T19:59:45+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000365s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000411s ]
+
+[ 2016-03-25T19:59:45+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000520s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000611s ]
+
+[ 2016-03-25T20:01:01+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0017s ]
+NOTIC: [8] Undefined index: validate /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: UPDATE `g_event` SET `status`='0',`ps`='' WHERE `id` = 2205 [ RunTime:0.0014s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458907261  [ RunTime:0.0013s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458907261 [ RunTime:0.0012s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0017s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0038s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Common/functions.php:850) /Library/WebServer/Documents/zettaiScripts/script/Home/Common/function.php 第 214 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000606s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000701s ]
+
+[ 2016-03-25T20:01:01+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000424s ]
+
+[ 2016-03-25T20:01:01+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000572s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000654s ]
+
+[ 2016-03-25T20:02:14+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+SQL: SHOW COLUMNS FROM `s_event` [ RunTime:0.0028s ]
+SQL: SHOW COLUMNS FROM `s_event` [ RunTime:0.0021s ]
+SQL: SELECT `index`,`name`,`group`,`type`,`start_date`,`start_time`,`end_date`,`end_time`,`open_process`,`count_type`,`count`,`exchange`,`prompt_type`,`prompt_string`,`des`,`priority`,`icon` FROM `s_event` WHERE ( 1=1 ) ORDER BY `group` asc,`start_date` asc,`start_time` asc  [ RunTime:0.0018s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0016s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458907334  [ RunTime:0.0014s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458907334 [ RunTime:0.0013s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `s_params` [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `s_params` [ RunTime:0.0022s ]
+SQL: SELECT `index`,`value`,`des` FROM `s_params` WHERE ( 1=1 ) ORDER BY `index` asc  [ RunTime:0.0035s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0022s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Common/functions.php:850) /Library/WebServer/Documents/zettaiScripts/script/Home/Common/function.php 第 214 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000656s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000725s ]
+
+[ 2016-03-25T20:02:14+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000832s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000437s ]
+
+[ 2016-03-25T20:02:14+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000467s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000537s ]
+
+[ 2016-03-25T20:03:01+08:00 ] ::1 /zettaiScripts/index.php?method=ExecMin10.index&sid=104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000364s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0018s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `g_shop` WHERE `type` = 102 AND `tid` = 0 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `g_shop` WHERE `dtime` <= 1458907381  [ RunTime:0.0015s ]
+NOTIC: [2] Illegal offset type in isset or empty /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Model.class.php 第 511 行.
+SQL: DELETE FROM `g_shop` WHERE `dtime` <= 1458907381 [ RunTime:0.0014s ]
+SQL: select `gt`.`tid`,`gt`.`nickname`,`gt`.`icon`,`gt`.`level`,`tdc`.`count` as `data` from `g_team` as `gt`,`t_daily_count` as `tdc` where `gt`.`tid`=`tdc`.`tid` && `tdc`.`type`='6' order by `tdc`.`count` DESC, `tdc`.`tid` ASC limit 50; [ RunTime:0.0015s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000072 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000036 LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104010096 LIMIT 1   [ RunTime:0.0026s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000025 LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `league_id` FROM `g_league_team` WHERE `tid` = 104000066 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `name` FROM `g_league` WHERE `id` = 104000024 LIMIT 1   [ RunTime:0.0014s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Common/functions.php:850) /Library/WebServer/Documents/zettaiScripts/script/Home/Common/function.php 第 214 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000593s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000706s ]
+
+[ 2016-03-25T20:03:01+08:00 ] ::1 /zettaiScripts/index.php?method=Exec.index&interval=Min10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000406s ]
+
+[ 2016-03-25T20:03:01+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Library/WebServer/Documents/zettaiScripts/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000389s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000470s ]
+
+[ 2016-03-25T20:09:39+08:00 ] ::1 /zettaiScripts/index.php?c=Test&a=fast_test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0046s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000428s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000483s ]
+
+[ 2016-03-25T20:10:10+08:00 ] ::1 /zettaiScripts/index.php?c=Test&a=fast_test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+SQL: SHOW COLUMNS FROM `s_event` [ RunTime:0.0026s ]
+SQL: SHOW COLUMNS FROM `s_event` [ RunTime:0.0020s ]
+SQL: SELECT `index`,`name`,`group`,`type`,`start_date`,`start_time`,`end_date`,`end_time`,`open_process`,`count_type`,`count`,`exchange`,`prompt_type`,`prompt_string`,`des`,`priority`,`icon` FROM `s_event` WHERE ( 1=1 ) ORDER BY `group` asc,`start_date` asc,`start_time` asc  [ RunTime:0.0019s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000499s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000569s ]
+
+[ 2016-03-25T20:10:42+08:00 ] ::1 /zettaiScripts/index.php?c=Test&a=fast_test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000459s ]
+
+[ 2016-03-25T20:11:22+08:00 ] ::1 /zettaiScripts/index.php?c=Test&a=fast_test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+SQL: SHOW COLUMNS FROM `s_event` [ RunTime:0.0028s ]
+SQL: SHOW COLUMNS FROM `s_event` [ RunTime:0.0019s ]
+SQL: SELECT `index`,`name`,`group`,`type`,`start_date`,`start_time`,`end_date`,`end_time`,`open_process`,`count_type`,`count`,`exchange`,`prompt_type`,`prompt_string`,`des`,`priority`,`icon` FROM `s_event` WHERE ( 1=1 ) ORDER BY `group` asc,`start_date` asc,`start_time` asc  [ RunTime:0.0016s ]
+SQL: SELECT * FROM `g_params`  [ RunTime:0.0016s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000426s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000488s ]
+
+[ 2016-03-25T20:11:27+08:00 ] ::1 /zettaiScripts/index.php?c=Test&a=fast_test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000324s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0021s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000453s ]
+
+[ 2016-03-25T20:11:28+08:00 ] ::1 /zettaiScripts/index.php?c=Test&a=fast_test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000455s ]
+
+[ 2016-03-25T20:12:00+08:00 ] ::1 /zettaiScripts/index.php?c=Test&a=fast_test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000538s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000615s ]
+
+[ 2016-03-25T20:14:37+08:00 ] ::1 /zettaiScripts/index.php?c=Test&a=fast_test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000571s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000652s ]
+
+[ 2016-03-25T20:14:51+08:00 ] ::1 /zettaiScripts/index.php?c=Test&a=fast_test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0021s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000543s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000605s ]
+
+[ 2016-03-25T20:15:01+08:00 ] ::1 /zettaiScripts/index.php?c=Test&a=fast_test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000437s ]
+
+[ 2016-03-25T20:15:13+08:00 ] ::1 /zettaiScripts/index.php?c=Test&a=fast_test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+SQL: SELECT * FROM `g_event`  [ RunTime:0.0043s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000426s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000489s ]
+

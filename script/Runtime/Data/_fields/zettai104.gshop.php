@@ -1,0 +1,1 @@
+a:6:{i:0;s:4:"type";i:1;s:3:"tid";i:2;s:5:"ctime";i:3;s:5:"dtime";s:3:"_pk";a:2:{i:0;s:4:"type";i:1;s:3:"tid";}s:5:"_type";a:4:{s:4:"type";s:16:"int(10) unsigned";s:3:"tid";s:16:"int(10) unsigned";s:5:"ctime";s:16:"int(10) unsigned";s:5:"dtime";s:16:"int(10) unsigned";}}

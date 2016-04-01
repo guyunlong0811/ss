@@ -1,0 +1,1 @@
+a:4:{i:0;s:5:"index";i:1;s:5:"value";s:3:"_pk";s:5:"index";s:5:"_type";a:2:{s:5:"index";s:12:"varchar(255)";s:5:"value";s:4:"text";}}
